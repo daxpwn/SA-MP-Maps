@@ -1,0 +1,976 @@
+new cobj0 = CreateDynamicObject(19431, 1667.921997, -1649.074951, 23.277000, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj0, 0, 15041, "bigsfsave", "ah_utilbor2");
+
+	CreateDynamicObject(19421, 1659.754028, -1625.052979, 23.372000, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2253, 1667.594971, -1645.818970, 21.806000, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(1817, 1661.140015, -1627.171021, 21.525000, 0.000000, 0.000000, 0.000000);
+
+	new cobj1 = CreateDynamicObject(19450, 1659.984009, -1624.654053, 23.266001, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj1, 0, 15041, "bigsfsave", "ah_utilbor2");
+
+	CreateDynamicObject(1723, 1660.588013, -1625.265015, 21.525000, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2817, 1661.113037, -1626.359985, 21.525000, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2824, 1661.238037, -1626.602051, 22.031000, 0.000000, 0.000000, 0.000000);
+
+	new cobj2 = CreateDynamicObject(19379, 1662.779053, -1629.405029, 21.440001, 0.000000, 90.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj2, 0, 3922, "bistro", "rest_wall4");
+
+	CreateDynamicObject(2855, 1661.723022, -1626.883057, 22.031000, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2001, 1663.995972, -1631.859985, 21.525000, 0.000000, 0.000000, 0.000000);
+
+	new cobj3 = CreateDynamicObject(19377, 1662.779053, -1629.405029, 24.950001, 0.000000, 90.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj3, 0, 9525, "boigas_sfw", "GEwhite1_64");
+
+
+	new cobj4 = CreateDynamicObject(11714, 236.951004, 651.382996, 1012.103027, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj4, 0, 12855, "cunte_cop", "sw_copdoor1");
+
+
+	new cobj5 = CreateDynamicObject(948, 234.925003, 650.901978, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj5, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj6 = CreateDynamicObject(2773, 236.817993, 646.820007, 1011.359009, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj6, 256, 4010, "lanblokb2", "bluewhitebuild1");
+
+
+	new cobj7 = CreateDynamicObject(948, 238.985001, 650.901978, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj7, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj8 = CreateDynamicObject(1238, 235.710007, 646.268982, 1011.520996, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj8, 0, 2811, "gb_ornaments01", "GB_plant02");
+
+
+	new cobj9 = CreateDynamicObject(1238, 237.839996, 645.908020, 1011.351013, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj9, 0, 2811, "gb_ornaments01", "GB_plant02");
+
+
+	new cobj10 = CreateDynamicObject(2773, 232.477997, 650.968994, 1011.359009, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj10, 256, 4010, "lanblokb2", "bluewhitebuild1");
+
+
+	new cobj11 = CreateDynamicObject(2773, 235.139008, 645.179016, 1011.359009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj11, 256, 4010, "lanblokb2", "bluewhitebuild1");
+
+
+	new cobj12 = CreateDynamicObject(2773, 238.447998, 645.159973, 1011.359009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj12, 256, 4010, "lanblokb2", "bluewhitebuild1");
+
+	CreateDynamicObject(14852, 237.001999, 651.650024, 1016.328003, 0.000000, 0.000000, 0.000000);
+
+	new cobj13 = CreateDynamicObject(2773, 241.388000, 650.968994, 1011.359009, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj13, 256, 4010, "lanblokb2", "bluewhitebuild1");
+
+
+	new cobj14 = CreateDynamicObject(1238, 235.710007, 644.057983, 1011.520996, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj14, 0, 2811, "gb_ornaments01", "GB_plant02");
+
+
+	new cobj15 = CreateDynamicObject(1238, 237.910004, 644.057983, 1011.520996, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj15, 0, 2811, "gb_ornaments01", "GB_plant02");
+
+
+	new cobj16 = CreateDynamicObject(2773, 236.817993, 643.508972, 1011.359009, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj16, 256, 4010, "lanblokb2", "bluewhitebuild1");
+
+	CreateDynamicObject(1726, 242.949997, 649.982971, 1010.859009, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(1537, 230.191925, 649.779968, 1010.848572, 0.000000, 0.000000, 89.700050);
+
+	new cobj17 = CreateDynamicObject(19476, 230.384995, 649.275024, 1013.820984, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj17, 1, 1360, "", "");
+
+	CreateDynamicObject(1533, 230.169006, 651.252991, 1010.841980, 0.000000, 0.000000, 270.000000);
+
+	new cobj18 = CreateDynamicObject(19172, 243.509995, 648.997009, 1012.968994, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj18, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+
+	new cobj19 = CreateDynamicObject(19172, 230.389999, 645.185974, 1012.968994, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj19, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+	CreateDynamicObject(1726, 230.940002, 644.143005, 1010.859009, 0.000000, 0.000000, 450.000000);
+
+	new cobj20 = CreateDynamicObject(19476, 243.516006, 645.494995, 1013.820984, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj20, 1, 1360, "", "");
+
+	CreateDynamicObject(19325, 243.774994, 646.112976, 1014.833008, 0.000000, 0.000000, 0.000000);
+
+	new cobj21 = CreateDynamicObject(1999, 245.709000, 649.635010, 1010.828003, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj21, 512, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1209, 243.218002, 643.132996, 1010.822021, 0.000000, 0.000000, 270.000000);
+
+	new cobj22 = CreateDynamicObject(14847, 237.119003, 640.539001, 1014.250000, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj22, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2000, 245.921005, 648.882019, 1010.848999, 0.000000, 0.000000, 90.000000);
+
+	new cobj23 = CreateDynamicObject(948, 229.585007, 642.971985, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj23, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj24 = CreateDynamicObject(948, 244.365005, 650.942993, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj24, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1714, 244.882996, 648.369019, 1017.838013, 0.000000, 0.000000, 810.000000);
+	CreateDynamicObject(2196, 236.328995, 639.135986, 1012.049011, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(1714, 247.003006, 650.619019, 1010.859009, 0.000000, 0.000000, 270.000000);
+
+	new cobj25 = CreateDynamicObject(19883, 236.929993, 638.979980, 1012.062012, 0.000000, 0.000000, 89.999001);
+	SetDynamicObjectMaterial(cobj25, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj26 = CreateDynamicObject(19995, 236.931000, 638.973999, 1012.109009, -0.000000, 0.000000, -0.000000);
+	SetDynamicObjectMaterial(cobj26, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj27 = CreateDynamicObject(948, 244.365005, 645.543030, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj27, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj28 = CreateDynamicObject(1581, 236.914993, 638.955017, 1012.328979, 11.500000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj28, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj29 = CreateDynamicObject(1581, 236.914993, 638.935974, 1012.333008, 11.500000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj29, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(14897, 239.179001, 641.039001, 1017.789001, 0.000000, 0.000000, 180.000000);
+
+	new cobj30 = CreateDynamicObject(19476, 230.384995, 640.914001, 1013.820984, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj30, 1, 1360, "", "");
+
+	CreateDynamicObject(18004, 236.979996, 639.072021, 1014.650024, 0.000000, 0.000000, 180.000000);
+
+	new cobj31 = CreateDynamicObject(14599, 236.972000, 660.320984, 1012.742004, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj31, 1024, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(19808, 236.914001, 638.606995, 1012.064026, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(19807, 237.792999, 638.664001, 1012.109009, 0.000000, 0.000000, 0.000000);
+
+	new cobj32 = CreateDynamicObject(2258, 244.057999, 648.341980, 1019.879028, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj32, 0, 11631, "mp_ranchcut", "CJ_PAINTING20");
+
+	CreateDynamicObject(2196, 240.490005, 639.135986, 1012.049011, 0.000000, 0.000000, 0.000000);
+
+	new cobj33 = CreateDynamicObject(19883, 232.800003, 638.979980, 1012.062012, 0.000000, 0.000000, 89.999001);
+	SetDynamicObjectMaterial(cobj33, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj34 = CreateDynamicObject(19995, 232.800995, 638.973999, 1012.109009, -0.000000, 0.000000, -0.000000);
+	SetDynamicObjectMaterial(cobj34, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj35 = CreateDynamicObject(1581, 232.785004, 638.955017, 1012.328979, 11.500000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj35, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj36 = CreateDynamicObject(1581, 232.785004, 638.935974, 1012.333008, 11.500000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj36, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(2196, 232.179993, 639.135986, 1012.049011, 0.000000, 0.000000, 0.000000);
+
+	new cobj37 = CreateDynamicObject(19476, 243.516006, 640.823975, 1013.820984, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj37, 1, 1360, "", "");
+
+
+	new cobj38 = CreateDynamicObject(19883, 240.990005, 638.979980, 1012.062012, 0.000000, 0.000000, 89.999001);
+	SetDynamicObjectMaterial(cobj38, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj39 = CreateDynamicObject(19995, 240.990997, 638.973999, 1012.109009, -0.000000, 0.000000, -0.000000);
+	SetDynamicObjectMaterial(cobj39, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj40 = CreateDynamicObject(1581, 240.975006, 638.955017, 1012.328979, 11.500000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj40, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj41 = CreateDynamicObject(1581, 240.975006, 638.935974, 1012.333008, 11.500000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj41, 0, 18996, "mattextures", "sampblack");
+
+
+	new cobj42 = CreateDynamicObject(2164, 244.089996, 643.210999, 1017.851990, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj42, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2612, 228.121002, 645.143005, 1018.369019, 0.000000, 0.000000, 360.000000);
+	CreateDynamicObject(19808, 232.783997, 638.606995, 1012.064026, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(14848, 238.714996, 638.132996, 1012.250000, 0.000000, 0.000000, 0.000000);
+
+	new cobj43 = CreateDynamicObject(2205, 246.641006, 649.044006, 1017.859009, 0.000000, 0.000000, 630.000000);
+	SetDynamicObjectMaterial(cobj43, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj44 = CreateDynamicObject(19089, 233.893005, 649.669983, 1023.283997, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj44, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(11711, 244.061005, 640.810974, 1014.289978, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(19808, 240.983994, 638.606995, 1012.064026, 0.000000, 0.000000, 0.000000);
+
+	new cobj45 = CreateDynamicObject(19089, 233.893005, 648.578979, 1023.283997, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj45, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(1537, 243.740082, 640.229065, 1010.849487, 0.000000, 0.000000, 154.899918);
+	CreateDynamicObject(1714, 229.404999, 641.359009, 1016.437012, 0.000000, 0.000000, -142.498993);
+	CreateDynamicObject(1714, 226.964005, 644.187988, 1016.437012, 0.000000, 0.000000, 630.000000);
+	CreateDynamicObject(11711, 226.341003, 644.039978, 1014.737976, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(19807, 241.873001, 638.664001, 1012.109009, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(19808, 246.412994, 648.434021, 1018.809021, 0.000000, 0.000000, -82.299004);
+	CreateDynamicObject(19807, 246.535995, 649.239990, 1018.861023, 0.000000, 0.000000, -78.400002);
+
+	new cobj46 = CreateDynamicObject(1999, 248.748993, 649.635010, 1010.828003, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj46, 512, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj47 = CreateDynamicObject(19893, 228.509995, 641.888977, 1017.249023, 0.000000, 0.000000, 67.300003);
+	SetDynamicObjectMaterial(cobj47, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+	CreateDynamicObject(19325, 230.134995, 639.353027, 1014.833008, 0.000000, 0.000000, 0.000000);
+
+	new cobj48 = CreateDynamicObject(2855, 246.677002, 647.510010, 1018.768982, 0.000000, 0.000000, -90.500000);
+	SetDynamicObjectMaterial(cobj48, 0, 15040, "cuntcuts", "GB_novels06");
+
+	CreateDynamicObject(2000, 248.921005, 648.882019, 1010.848999, 0.000000, 0.000000, 90.000000);
+
+	new cobj49 = CreateDynamicObject(19883, 246.822998, 648.638977, 1018.809998, 0.000000, 0.000000, 15.900000);
+	SetDynamicObjectMaterial(cobj49, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj50 = CreateDynamicObject(19995, 246.817001, 648.637024, 1018.856995, -0.000000, 0.000000, -74.098999);
+	SetDynamicObjectMaterial(cobj50, 0, 18835, "mickytextures", "whiteforletters");
+
+	CreateDynamicObject(1727, 247.501007, 650.672974, 1017.859009, 0.000000, 0.000000, 360.000000);
+
+	new cobj51 = CreateDynamicObject(1581, 246.776001, 648.640991, 1019.080994, 11.500000, -0.000000, 105.899002);
+	SetDynamicObjectMaterial(cobj51, 0, 18996, "mattextures", "sampblack");
+
+
+	new cobj52 = CreateDynamicObject(1581, 246.794998, 648.646973, 1019.077026, 11.500000, -0.000000, 105.899002);
+	SetDynamicObjectMaterial(cobj52, 0, 18835, "mickytextures", "whiteforletters");
+
+	CreateDynamicObject(1714, 236.942993, 636.958984, 1010.859009, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(1714, 238.567001, 638.491028, 1017.846985, 0.000000, 0.000000, 55.900002);
+	CreateDynamicObject(1714, 235.843994, 638.127991, 1017.846985, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(1714, 249.042007, 646.119995, 1010.859009, 0.000000, 0.000000, 450.000000);
+	CreateDynamicObject(1533, 243.748993, 638.750977, 1010.841980, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2007, 223.630005, 649.562012, 1010.836975, 0.000000, 0.000000, 810.000000);
+	CreateDynamicObject(1722, 224.272995, 649.184998, 1016.460022, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(1714, 232.822998, 636.958984, 1010.859009, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(1722, 224.272995, 650.414978, 1016.460022, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2007, 223.630005, 647.091980, 1010.836975, 0.000000, 0.000000, 810.000000);
+	CreateDynamicObject(1722, 224.272995, 647.874023, 1016.460022, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(1714, 232.154999, 638.570007, 1017.846985, 0.000000, 0.000000, 46.200001);
+
+	new cobj53 = CreateDynamicObject(948, 223.434998, 650.901978, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj53, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1714, 240.962006, 636.958984, 1010.859009, 0.000000, 0.000000, 180.000000);
+
+	new cobj54 = CreateDynamicObject(19089, 233.893005, 642.987976, 1023.283997, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj54, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(1722, 224.272995, 646.604004, 1016.460022, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(1714, 250.121994, 650.619019, 1010.859009, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(1714, 249.042007, 643.838989, 1010.859009, 0.000000, 0.000000, 450.000000);
+
+	new cobj55 = CreateDynamicObject(19893, 233.136002, 638.005981, 1018.648987, 0.000000, 0.000000, -105.400002);
+	SetDynamicObjectMaterial(cobj55, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+	CreateDynamicObject(1714, 242.697998, 638.588989, 1017.846985, 0.000000, 0.000000, 71.400002);
+	CreateDynamicObject(2612, 222.820999, 649.223022, 1014.067993, 0.000000, 0.000000, 630.000000);
+
+	new cobj56 = CreateDynamicObject(19089, 233.893005, 641.958008, 1023.283997, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj56, 0, 18996, "mattextures", "sampblack");
+
+
+	new cobj57 = CreateDynamicObject(19893, 239.061005, 637.598999, 1018.689026, 0.000000, 0.000000, -179.699005);
+	SetDynamicObjectMaterial(cobj57, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+	CreateDynamicObject(14896, 227.270004, 641.039001, 1018.080017, 0.000000, 0.000000, -180.000000);
+	CreateDynamicObject(1839, 250.723999, 647.497986, 1011.786987, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(19166, 249.078003, 642.565002, 1012.789001, 90.000000, 180.000000, 0.000000);
+	CreateDynamicObject(1714, 231.009003, 637.728027, 1017.846985, 0.000000, 0.000000, -91.299004);
+
+	new cobj58 = CreateDynamicObject(19893, 224.315994, 644.229004, 1017.249023, 0.000000, 0.000000, 270.299988);
+	SetDynamicObjectMaterial(cobj58, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+	CreateDynamicObject(1578, 234.309006, 637.325012, 1019.229980, 0.000000, 0.000000, 90.000000);
+
+	new cobj59 = CreateDynamicObject(19929, 250.673004, 646.585999, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj59, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1714, 222.373001, 646.968994, 1012.258972, 0.000000, 0.000000, 270.000000);
+
+	new cobj60 = CreateDynamicObject(1499, 246.539001, 639.116028, 1010.848999, 0.000000, 0.000000, 540.000000);
+	SetDynamicObjectMaterial(cobj60, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj61 = CreateDynamicObject(19939, 250.699997, 646.275024, 1011.770020, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj61, 0, 14391, "dr_gsmix", "mixingdesk02");
+
+	CreateDynamicObject(1722, 238.102997, 636.293030, 1017.859009, 0.000000, 0.000000, 270.000000);
+
+	new cobj62 = CreateDynamicObject(948, 246.664993, 640.793030, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj62, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj63 = CreateDynamicObject(2164, 249.250000, 645.260010, 1017.851990, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj63, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2007, 249.139999, 641.742004, 1010.836975, 0.000000, 0.000000, 720.000000);
+
+	new cobj64 = CreateDynamicObject(2161, 243.488998, 636.416016, 1012.197998, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj64, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1714, 235.843994, 635.978027, 1017.846985, 0.000000, 0.000000, 90.000000);
+
+	new cobj65 = CreateDynamicObject(19939, 250.699997, 644.974976, 1011.770020, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj65, 0, 14391, "dr_gsmix", "mixingdesk02");
+
+
+	new cobj66 = CreateDynamicObject(2161, 230.399002, 636.034973, 1012.206970, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj66, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj67 = CreateDynamicObject(2161, 243.488998, 636.416016, 1010.846985, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj67, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj68 = CreateDynamicObject(2161, 230.399002, 636.034973, 1010.846985, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj68, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj69 = CreateDynamicObject(19893, 243.061005, 637.867981, 1018.658997, 0.000000, 0.000000, -171.598999);
+	SetDynamicObjectMaterial(cobj69, 256, 19894, "laptopsamp1", "laptopscreen2");
+
+	CreateDynamicObject(19611, 235.216003, 635.406006, 1016.676025, 180.000000, 0.000000, 0.000000);
+
+	new cobj70 = CreateDynamicObject(2606, 251.227997, 646.015015, 1012.466980, -0.000000, 0.000000, -89.999001);
+	SetDynamicObjectMaterial(cobj70, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj71 = CreateDynamicObject(2606, 251.227997, 646.015015, 1012.927002, -0.000000, 0.000000, -89.999001);
+	SetDynamicObjectMaterial(cobj71, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1722, 222.192993, 649.184998, 1016.460022, 0.000000, 0.000000, 89.999001);
+
+	new cobj72 = CreateDynamicObject(19861, 237.968002, 637.341003, 1020.692993, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj72, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1722, 222.192993, 650.414978, 1016.460022, 0.000000, 0.000000, 89.999001);
+
+	new cobj73 = CreateDynamicObject(948, 223.475006, 642.002991, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj73, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1714, 227.246002, 637.593018, 1010.859009, 0.000000, 0.000000, -124.800003);
+	CreateDynamicObject(1722, 222.192993, 647.874023, 1016.460022, 0.000000, 0.000000, 89.999001);
+
+	new cobj74 = CreateDynamicObject(19476, 227.414993, 639.015015, 1018.021973, 0.000000, 0.000000, 1620.000000);
+	SetDynamicObjectMaterial(cobj74, 1, 1360, "", "");
+
+	CreateDynamicObject(11729, 251.785004, 649.344971, 1010.838989, 0.000000, 0.000000, 90.000000);
+
+	new cobj75 = CreateDynamicObject(19940, 251.729004, 647.927002, 1011.359009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj75, 0, 17545, "burnsground", "newall1-1128");
+
+	CreateDynamicObject(11729, 251.785004, 650.065002, 1010.838989, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2612, 251.572998, 646.900024, 1012.789001, 0.000000, 0.000000, 90.000000);
+
+	new cobj76 = CreateDynamicObject(19861, 233.977997, 637.341003, 1020.692993, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj76, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj77 = CreateDynamicObject(19929, 250.673004, 643.726013, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj77, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj78 = CreateDynamicObject(19939, 250.699997, 643.653992, 1011.770020, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj78, 0, 14391, "dr_gsmix", "mixingdesk03");
+
+	CreateDynamicObject(11729, 251.785004, 650.784973, 1010.838989, 0.000000, 0.000000, 90.000000);
+
+	new cobj79 = CreateDynamicObject(19893, 237.110992, 635.807983, 1018.689026, 0.000000, 0.000000, -89.698997);
+	SetDynamicObjectMaterial(cobj79, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+	CreateDynamicObject(1722, 222.192993, 646.604004, 1016.460022, 0.000000, 0.000000, 89.999001);
+	CreateDynamicObject(1714, 243.154007, 636.968018, 1017.846985, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2689, 252.098999, 649.818970, 1012.448975, 0.000000, 0.000000, 90.000000);
+
+	new cobj80 = CreateDynamicObject(19940, 251.729004, 645.927002, 1011.359009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj80, 0, 17545, "burnsground", "newall1-1128");
+
+
+	new cobj81 = CreateDynamicObject(2606, 251.227997, 644.033997, 1012.466980, -0.000000, 0.000000, -89.999001);
+	SetDynamicObjectMaterial(cobj81, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj82 = CreateDynamicObject(2606, 251.227997, 644.033997, 1012.927002, -0.000000, 0.000000, -89.999001);
+	SetDynamicObjectMaterial(cobj82, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1714, 222.524002, 644.187988, 1016.437012, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(2164, 220.843002, 651.236023, 1012.239014, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2165, 220.938004, 646.448975, 1012.249023, 0.000000, 0.000000, 450.000000);
+	CreateDynamicObject(19611, 235.216003, 634.364990, 1016.676025, 180.000000, 0.000000, 0.000000);
+
+	new cobj83 = CreateDynamicObject(19861, 241.977997, 637.341003, 1020.692993, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj83, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2905, 245.615997, 638.758972, 1019.556030, 144.899994, 0.000000, 0.000000);
+	CreateDynamicObject(928, 245.587006, 638.672974, 1019.510010, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(11729, 251.785004, 644.443970, 1010.838989, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(11729, 251.785004, 643.732971, 1010.838989, 0.000000, 0.000000, 90.000000);
+
+	new cobj84 = CreateDynamicObject(2161, 223.158997, 640.245972, 1012.197021, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj84, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1722, 237.662994, 634.382996, 1017.859009, 0.000000, 0.000000, 90.000000);
+
+	new cobj85 = CreateDynamicObject(2161, 223.158997, 640.245972, 1010.846985, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj85, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(11729, 251.785004, 643.015015, 1010.838989, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2843, 251.964996, 643.356018, 1010.859009, 0.000000, 0.000000, 0.000000);
+
+	new cobj86 = CreateDynamicObject(1499, 223.270004, 640.674988, 1016.450989, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj86, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj87 = CreateDynamicObject(19476, 238.046005, 635.294983, 1020.341980, 0.000000, 0.000000, 720.000000);
+	SetDynamicObjectMaterial(cobj87, 1, 1360, "", "");
+
+	CreateDynamicObject(11729, 248.095001, 637.565002, 1010.838989, 0.000000, 0.000000, 90.000000);
+
+	new cobj88 = CreateDynamicObject(2161, 252.089996, 651.245972, 1017.848022, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj88, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1533, 230.171722, 634.089600, 1010.851013, 0.000000, 0.000000, -89.900017);
+
+	new cobj89 = CreateDynamicObject(19476, 234.085999, 635.294983, 1020.341980, 0.000000, 0.000000, 720.000000);
+	SetDynamicObjectMaterial(cobj89, 1, 1360, "", "");
+
+	CreateDynamicObject(2103, 230.175003, 635.861023, 1019.229004, 0.000000, 0.000000, 90.000000);
+
+	new cobj90 = CreateDynamicObject(19172, 246.309998, 638.479004, 1020.130005, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj90, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+
+	new cobj91 = CreateDynamicObject(19893, 221.335999, 644.275024, 1017.249023, 0.000000, 0.000000, 90.300003);
+	SetDynamicObjectMaterial(cobj91, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+	CreateDynamicObject(1726, 246.847000, 637.255981, 1017.838989, 0.000000, 0.000000, 450.000000);
+
+	new cobj92 = CreateDynamicObject(1499, 222.604996, 640.674988, 1016.450989, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj92, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(11729, 248.095001, 636.794983, 1010.838989, 0.000000, 0.000000, 90.000000);
+
+	new cobj93 = CreateDynamicObject(1499, 250.242996, 639.116028, 1010.848999, 0.000000, 0.000000, 540.000000);
+	SetDynamicObjectMaterial(cobj93, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj94 = CreateDynamicObject(19172, 252.210007, 642.257019, 1012.968994, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj94, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+	CreateDynamicObject(2845, 253.412994, 645.749023, 1010.960022, 0.000000, 0.000000, 0.000000);
+
+	new cobj95 = CreateDynamicObject(19476, 242.054993, 635.294983, 1020.341980, 0.000000, 0.000000, 720.000000);
+	SetDynamicObjectMaterial(cobj95, 1, 1360, "", "");
+
+
+	new cobj96 = CreateDynamicObject(19476, 250.925003, 639.265015, 1012.401978, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj96, 1, 1360, "", "");
+
+	CreateDynamicObject(1714, 223.697998, 637.486023, 1010.859009, 0.000000, 0.000000, 148.598999);
+	CreateDynamicObject(1722, 244.102997, 634.674011, 1017.859009, 0.000000, 0.000000, 90.000000);
+
+	new cobj97 = CreateDynamicObject(19476, 229.916000, 635.294983, 1020.341980, 0.000000, 0.000000, 720.000000);
+	SetDynamicObjectMaterial(cobj97, 1, 1360, "", "");
+
+	CreateDynamicObject(14895, 248.630997, 636.286987, 1012.953003, 0.000000, 0.000000, 180.000000);
+
+	new cobj98 = CreateDynamicObject(19172, 222.860001, 638.216980, 1014.250000, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj98, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+	CreateDynamicObject(1533, 230.169006, 632.601990, 1010.841980, 0.000000, 0.000000, 270.000000);
+
+	new cobj99 = CreateDynamicObject(19482, 237.119003, 631.325012, 1012.999023, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj99, 1, 1922, "", "");
+
+
+	new cobj100 = CreateDynamicObject(2161, 237.320007, 631.294983, 1010.846985, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj100, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj101 = CreateDynamicObject(19482, 237.119003, 631.325012, 1013.429993, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj101, 1, 1410, "", "");
+
+
+	new cobj102 = CreateDynamicObject(19172, 237.182999, 631.258972, 1013.197021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj102, 0, 18996, "mattextures", "sampblack");
+
+
+	new cobj103 = CreateDynamicObject(19893, 219.835999, 644.265991, 1017.249023, 0.000000, 0.000000, -89.698997);
+	SetDynamicObjectMaterial(cobj103, 256, 19894, "laptopsamp1", "laptopscreen3");
+
+
+	new cobj104 = CreateDynamicObject(19482, 234.149002, 631.325012, 1013.179016, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj104, 1, 2434, "", "");
+
+
+	new cobj105 = CreateDynamicObject(19482, 234.158997, 631.325012, 1013.198975, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj105, 1, 1410, "", "");
+
+
+	new cobj106 = CreateDynamicObject(19172, 234.492996, 631.258972, 1013.197021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj106, 0, 18996, "mattextures", "sampblack");
+
+
+	new cobj107 = CreateDynamicObject(2161, 233.729996, 631.294983, 1010.846985, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj107, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj108 = CreateDynamicObject(19482, 240.078995, 631.325012, 1013.179016, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj108, 1, 2434, "", "");
+
+
+	new cobj109 = CreateDynamicObject(19482, 240.089005, 631.325012, 1013.198975, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj109, 1, 1410, "", "");
+
+	CreateDynamicObject(19871, 231.914993, 631.560974, 1010.866028, 0.000000, 0.000000, -0.000000);
+
+	new cobj110 = CreateDynamicObject(19172, 239.882996, 631.258972, 1013.197021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj110, 0, 18996, "mattextures", "sampblack");
+
+
+	new cobj111 = CreateDynamicObject(3017, 231.865005, 631.515991, 1012.474976, -7.899000, 90.000000, 89.999001);
+	SetDynamicObjectMaterial(cobj111, 0, 12853, "cunte_gas01", "starspangban1_256");
+
+	CreateDynamicObject(11729, 255.100006, 647.692017, 1010.838989, -0.000000, 0.000000, -89.999001);
+	CreateDynamicObject(11729, 255.100006, 647.012024, 1010.838989, -0.000000, 0.000000, -89.999001);
+
+	new cobj112 = CreateDynamicObject(2161, 240.750000, 631.294983, 1010.846985, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj112, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(19871, 242.085007, 631.560974, 1010.866028, 0.000000, 0.000000, -0.000000);
+
+	new cobj113 = CreateDynamicObject(3017, 242.033997, 631.515991, 1012.474976, -7.899000, 90.000000, 89.999001);
+	SetDynamicObjectMaterial(cobj113, 0, 12853, "cunte_gas01", "starspangban1_256");
+
+	CreateDynamicObject(11729, 255.100006, 646.320984, 1010.838989, -0.000000, 0.000000, -89.999001);
+
+	new cobj114 = CreateDynamicObject(948, 230.804993, 631.601990, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj114, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(11729, 255.100006, 645.640991, 1010.838989, -0.000000, 0.000000, -89.999001);
+
+	new cobj115 = CreateDynamicObject(948, 243.095001, 631.601990, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj115, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj116 = CreateDynamicObject(2161, 223.158997, 635.934998, 1012.197021, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj116, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj117 = CreateDynamicObject(19476, 246.315002, 634.924988, 1019.411987, 0.000000, 0.000000, 720.000000);
+	SetDynamicObjectMaterial(cobj117, 1, 1360, "", "");
+
+
+	new cobj118 = CreateDynamicObject(2161, 223.158997, 635.934998, 1010.846985, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj118, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(11729, 255.610001, 647.692017, 1010.838989, 0.000000, 0.000000, 89.999001);
+	CreateDynamicObject(11707, 251.067993, 636.994019, 1012.028992, 0.000000, 0.000000, 270.000000);
+
+	new cobj119 = CreateDynamicObject(19476, 228.024994, 634.085022, 1019.411987, 0.000000, 0.000000, 990.000000);
+	SetDynamicObjectMaterial(cobj119, 1, 1360, "", "");
+
+	CreateDynamicObject(11729, 255.610001, 647.012024, 1010.838989, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(1714, 218.593994, 644.187988, 1016.437012, 0.000000, 0.000000, 450.000000);
+	CreateDynamicObject(11729, 255.610001, 646.320984, 1010.838989, 0.000000, 0.000000, 89.999001);
+	CreateDynamicObject(19805, 218.296997, 649.690002, 1018.357971, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(11729, 255.610001, 645.640991, 1010.838989, 0.000000, 0.000000, 89.999001);
+	CreateDynamicObject(11711, 226.311005, 633.059021, 1014.247986, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(1533, 243.748993, 631.250977, 1010.841980, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2007, 228.119995, 631.771973, 1010.836975, 0.000000, 0.000000, 900.000000);
+	CreateDynamicObject(14850, 219.319000, 640.559998, 1015.192017, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(2007, 254.869995, 641.742004, 1010.836975, 0.000000, 0.000000, 720.000000);
+	CreateDynamicObject(2165, 216.628006, 649.359009, 1012.249023, 0.000000, 0.000000, 540.000000);
+	CreateDynamicObject(1726, 235.606995, 630.426025, 1017.838989, 0.000000, 0.000000, 180.000000);
+
+	new cobj120 = CreateDynamicObject(19476, 254.964996, 646.043030, 1019.411987, 0.000000, 0.000000, -135.899994);
+	SetDynamicObjectMaterial(cobj120, 1, 1360, "", "");
+
+	CreateDynamicObject(14892, 233.518005, 629.940002, 1017.150024, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(1714, 216.072998, 650.799988, 1012.258972, 0.000000, 0.000000, 360.000000);
+	CreateDynamicObject(1726, 242.037003, 630.426025, 1017.838989, 0.000000, 0.000000, 180.000000);
+
+	new cobj121 = CreateDynamicObject(19843, 249.485001, 633.182007, 1010.844971, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj121, 0, 16640, "a51", "vent01_64");
+
+	CreateDynamicObject(1800, 256.951996, 647.684021, 1006.606018, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2165, 218.147995, 639.189026, 1012.249023, 0.000000, 0.000000, 720.000000);
+	CreateDynamicObject(2844, 257.726990, 649.114990, 1010.869019, 0.000000, 0.000000, 0.000000);
+
+	new cobj122 = CreateDynamicObject(19476, 215.725998, 645.666992, 1013.810974, 0.000000, 0.000000, 1350.000000);
+	SetDynamicObjectMaterial(cobj122, 1, 1360, "", "");
+
+	CreateDynamicObject(2612, 234.501007, 629.901978, 1020.008972, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(1714, 218.552994, 637.898010, 1012.258972, 0.000000, 0.000000, 540.000000);
+	CreateDynamicObject(2002, 228.647995, 630.377991, 1017.848999, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(14842, 250.272995, 632.830017, 1012.770020, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(2611, 241.020004, 629.901978, 1020.000000, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(18676, 252.410004, 634.328003, 1012.658020, 0.000000, 70.698997, 180.000000);
+	CreateDynamicObject(2002, 257.138000, 644.419006, 1017.848999, 0.000000, 0.000000, 360.000000);
+
+	new cobj123 = CreateDynamicObject(19482, 250.419006, 633.833984, 1019.200012, 0.000000, 0.000000, 540.000000);
+	SetDynamicObjectMaterial(cobj123, 1, 1410, "", "");
+
+
+	new cobj124 = CreateDynamicObject(19476, 215.576004, 642.656006, 1013.830994, 0.000000, 0.000000, 1530.000000);
+	SetDynamicObjectMaterial(cobj124, 1, 1360, "", "");
+
+	CreateDynamicObject(11729, 258.829987, 649.356018, 1010.838989, -0.000000, 0.000000, -89.999001);
+	CreateDynamicObject(11729, 258.829987, 650.067017, 1010.838989, -0.000000, 0.000000, -89.999001);
+	CreateDynamicObject(11729, 258.829987, 650.784973, 1010.838989, -0.000000, 0.000000, -89.999001);
+
+	new cobj125 = CreateDynamicObject(19940, 258.885010, 647.872986, 1011.359009, 0.000000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj125, 0, 17545, "burnsground", "newall1-1128");
+
+
+	new cobj126 = CreateDynamicObject(19482, 250.459000, 633.864990, 1019.969971, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj126, 1, 1410, "", "");
+
+
+	new cobj127 = CreateDynamicObject(19482, 250.459000, 633.854004, 1019.948975, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj127, 1, 2434, "", "");
+
+	CreateDynamicObject(2611, 217.619995, 637.622009, 1014.109985, 0.000000, 0.000000, 180.000000);
+
+	new cobj128 = CreateDynamicObject(948, 226.705002, 630.182007, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj128, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1722, 255.923004, 639.093994, 1006.650024, 0.000000, 0.000000, 270.000000);
+
+	new cobj129 = CreateDynamicObject(19940, 258.885010, 645.872986, 1011.359009, 0.000000, -0.000000, 179.998993);
+	SetDynamicObjectMaterial(cobj129, 0, 17545, "burnsground", "newall1-1128");
+
+	CreateDynamicObject(19325, 250.475998, 634.062988, 1020.794006, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(19173, 215.076035, 642.663025, 1013.818176, 0.000000, 0.000000, 0.000000);
+
+	new cobj130 = CreateDynamicObject(2163, 255.539001, 638.645020, 1017.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj130, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2615, 259.059998, 646.010010, 1012.890015, 0.000000, 0.000000, 270.000000);
+
+	new cobj131 = CreateDynamicObject(1742, 259.386993, 649.000000, 1010.836975, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj131, 512, 14581, "ab_mafiasuitea", "cof_wood2");
+
+	CreateDynamicObject(11729, 258.829987, 644.455994, 1010.838989, -0.000000, 0.000000, -89.999001);
+
+	new cobj132 = CreateDynamicObject(1499, 258.282990, 642.416016, 1010.856995, 0.000000, 0.000000, 540.000000);
+	SetDynamicObjectMaterial(cobj132, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2165, 215.018005, 641.848999, 1012.249023, 0.000000, 0.000000, 630.000000);
+
+	new cobj133 = CreateDynamicObject(19325, 250.565994, 634.062988, 1021.554016, 180.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj133, 0, 14498, "imm_rooms", "venetian_blind");
+
+	CreateDynamicObject(2828, 255.524002, 638.478027, 1018.778992, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(11729, 258.829987, 643.734985, 1010.838989, -0.000000, 0.000000, -89.999001);
+
+	new cobj134 = CreateDynamicObject(2257, 259.550995, 646.903015, 1012.841980, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj134, 0, 2266, "picture_frame", "CJ_PAINTING30");
+
+	CreateDynamicObject(1727, 254.130997, 635.643005, 1017.859009, 0.000000, 0.000000, 360.000000);
+	CreateDynamicObject(11729, 258.829987, 643.015015, 1010.838989, -0.000000, 0.000000, -89.999001);
+	CreateDynamicObject(18676, 249.427994, 630.000977, 1012.674011, 0.000000, 70.698997, 810.000000);
+
+	new cobj135 = CreateDynamicObject(1742, 259.386993, 644.419983, 1010.836975, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj135, 512, 14581, "ab_mafiasuitea", "cof_wood2");
+
+	CreateDynamicObject(2007, 221.250000, 631.771973, 1012.226990, 0.000000, 0.000000, 900.000000);
+
+	new cobj136 = CreateDynamicObject(948, 251.854996, 631.572021, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj136, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1999, 257.612000, 640.189026, 1006.627014, 0.000000, 0.000000, 270.000000);
+
+	new cobj137 = CreateDynamicObject(19786, 256.007996, 638.776001, 1020.130005, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj137, 256, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(1727, 260.080994, 646.453979, 1010.838989, 0.000000, 0.000000, 450.000000);
+
+	new cobj138 = CreateDynamicObject(2161, 248.490005, 629.885986, 1017.848022, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj138, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2007, 221.250000, 631.771973, 1016.458008, 0.000000, 0.000000, 900.000000);
+
+	new cobj139 = CreateDynamicObject(19476, 259.424988, 642.245972, 1012.401978, 0.000000, 0.000000, 630.000000);
+	SetDynamicObjectMaterial(cobj139, 1, 1360, "", "");
+
+	CreateDynamicObject(1726, 257.566986, 639.526001, 1017.838989, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(2165, 212.850006, 648.523010, 1016.453003, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(2173, 212.345001, 649.742004, 1012.257019, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(334, 257.787689, 637.822571, 1010.859375, 90.000000, 120.000000, 120.000000);
+	CreateDynamicObject(1714, 213.682999, 641.369019, 1012.258972, 0.000000, 0.000000, 450.000000);
+
+	new cobj140 = CreateDynamicObject(2184, 255.542007, 635.432007, 1017.838989, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj140, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2164, 215.292999, 637.596008, 1012.239014, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(2164, 212.903000, 645.726013, 1016.448975, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(1714, 213.584000, 642.067993, 1016.437012, 0.000000, 0.000000, 630.000000);
+	CreateDynamicObject(1722, 212.382996, 649.854980, 1016.460022, 0.000000, 0.000000, 179.998993);
+	CreateDynamicObject(2007, 257.600006, 636.692017, 1010.836975, 0.000000, 0.000000, 540.000000);
+
+	new cobj141 = CreateDynamicObject(19476, 253.335007, 631.275024, 1012.401978, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj141, 1, 1360, "", "");
+
+	CreateDynamicObject(3111, 259.953003, 651.247986, 1020.062988, 450.000000, 180.000000, 180.000000);
+
+	new cobj142 = CreateDynamicObject(19883, 255.681000, 635.146973, 1018.624023, -0.000000, -0.000000, 159.298996);
+	SetDynamicObjectMaterial(cobj142, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj143 = CreateDynamicObject(948, 257.954987, 638.343018, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj143, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj144 = CreateDynamicObject(19995, 255.686996, 635.145996, 1018.669983, 0.000000, -0.000000, 69.299004);
+	SetDynamicObjectMaterial(cobj144, 0, 18835, "mickytextures", "whiteforletters");
+
+	CreateDynamicObject(1800, 260.851990, 647.684021, 1006.606018, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(1727, 261.441010, 650.684021, 1010.838989, 0.000000, 0.000000, 360.000000);
+
+	new cobj145 = CreateDynamicObject(1581, 255.699005, 635.125000, 1018.890015, 11.499000, 0.000000, -110.698997);
+	SetDynamicObjectMaterial(cobj145, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj146 = CreateDynamicObject(1581, 255.718002, 635.117981, 1018.893982, 11.499000, 0.000000, -110.698997);
+	SetDynamicObjectMaterial(cobj146, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(19808, 256.216003, 634.961975, 1018.629028, 0.000000, 0.000000, 62.599998);
+	CreateDynamicObject(1727, 255.121002, 633.163025, 1017.859009, 0.000000, 0.000000, 180.000000);
+
+	new cobj147 = CreateDynamicObject(19172, 212.080002, 642.648987, 1014.179016, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj147, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+
+	new cobj148 = CreateDynamicObject(2200, 252.518005, 630.034973, 1017.859009, 0.000000, 0.000000, 540.000000);
+	SetDynamicObjectMaterial(cobj148, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+
+	new cobj149 = CreateDynamicObject(19476, 210.966003, 645.666992, 1013.810974, 0.000000, 0.000000, 1350.000000);
+	SetDynamicObjectMaterial(cobj149, 1, 1360, "", "");
+
+
+	new cobj150 = CreateDynamicObject(19172, 214.429993, 637.567993, 1018.340027, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj150, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+
+	new cobj151 = CreateDynamicObject(2855, 255.973007, 633.411011, 1018.588989, 0.000000, 0.000000, 101.098999);
+	SetDynamicObjectMaterial(cobj151, 0, 15040, "cuntcuts", "GB_novels06");
+
+
+	new cobj152 = CreateDynamicObject(2238, 255.610001, 633.098022, 1019.018005, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj152, 0, 18752, "volcano", "lavalake");
+
+	CreateDynamicObject(1722, 211.423004, 643.364014, 1016.460022, 0.000000, 0.000000, 269.998993);
+
+	new cobj153 = CreateDynamicObject(2258, 258.257996, 636.960999, 1019.929016, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj153, 0, 11631, "mp_ranchcut", "CJ_PAINTING20");
+
+
+	new cobj154 = CreateDynamicObject(19172, 214.429993, 634.906982, 1014.270020, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj154, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+
+	new cobj155 = CreateDynamicObject(19482, 261.789001, 645.465027, 1019.549988, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj155, 1, 1410, "", "");
+
+	CreateDynamicObject(19999, 257.734985, 634.377991, 1017.859009, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(2173, 209.854996, 649.742004, 1012.257019, 0.000000, 0.000000, 90.000000);
+
+	new cobj156 = CreateDynamicObject(2164, 258.760010, 635.820007, 1017.851990, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj156, 256, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(19623, 259.656006, 636.351013, 1008.270020, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(19325, 261.585999, 645.494019, 1020.794006, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2173, 209.865005, 646.461975, 1012.257019, 0.000000, 0.000000, 90.000000);
+
+	new cobj157 = CreateDynamicObject(19482, 261.789001, 645.473999, 1020.367981, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj157, 1, 2434, "", "");
+
+
+	new cobj158 = CreateDynamicObject(19482, 261.789001, 645.465027, 1020.400024, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj158, 1, 1410, "", "");
+
+	CreateDynamicObject(19611, 259.653992, 636.366028, 1006.653992, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2165, 209.860001, 648.523010, 1016.453003, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(11743, 263.727997, 651.043030, 1011.635986, 0.000000, 0.000000, 0.000000);
+
+	new cobj159 = CreateDynamicObject(2115, 263.743011, 650.752991, 1010.841003, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj159, 0, 14581, "ab_mafiasuitea", "cof_wood2");
+
+
+	new cobj160 = CreateDynamicObject(19172, 214.429993, 634.906982, 1018.340027, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj160, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+
+	new cobj161 = CreateDynamicObject(1499, 261.178009, 638.835022, 1017.859009, 0.000000, 0.000000, 180.000000);
+	SetDynamicObjectMaterial(cobj161, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(1722, 209.393005, 649.854980, 1016.460022, 0.000000, 0.000000, 179.998993);
+
+	new cobj162 = CreateDynamicObject(948, 215.634995, 631.541992, 1012.249023, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj162, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(2614, 258.253998, 634.382996, 1020.129028, 0.000000, 0.000000, 270.000000);
+
+	new cobj163 = CreateDynamicObject(19172, 260.920013, 636.156006, 1012.968994, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj163, 0, 14853, "gen_pol_vegas", "mp_cop_pinboard");
+
+	CreateDynamicObject(2007, 215.589996, 631.771973, 1016.458008, 0.000000, 0.000000, 900.000000);
+	CreateDynamicObject(2612, 209.770996, 645.362976, 1018.369019, 0.000000, 0.000000, 360.000000);
+	CreateDynamicObject(1209, 263.687988, 642.843018, 1010.822021, 0.000000, 0.000000, 540.000000);
+	CreateDynamicObject(2222, 264.701996, 650.786987, 1011.703003, 0.000000, 0.000000, 63.200001);
+	CreateDynamicObject(19482, 259.644989, 633.596008, 1008.656982, 0.000000, 0.000000, 89.999001);
+
+	new cobj164 = CreateDynamicObject(19373, 259.614014, 633.486023, 1008.336975, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj164, 0, 18835, "mickytextures", "whiteforletters");
+
+	CreateDynamicObject(19805, 209.276993, 645.679016, 1018.299011, 0.000000, 0.000000, 540.000000);
+	CreateDynamicObject(1714, 209.544006, 642.067993, 1016.437012, 0.000000, 0.000000, 810.000000);
+	CreateDynamicObject(1726, 261.920013, 636.672974, 1010.859009, 0.000000, 0.000000, 540.000000);
+	CreateDynamicObject(19611, 264.390015, 646.512024, 1017.851990, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(1800, 264.842010, 647.684021, 1006.606018, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(19610, 264.368988, 646.517029, 1019.466003, 22.698999, 0.000000, 270.000000);
+
+	new cobj165 = CreateDynamicObject(2258, 258.257996, 631.780029, 1019.929016, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj165, 0, 2254, "picture_frame_clip", "CJ_PAINTING12");
+
+	CreateDynamicObject(11711, 262.411011, 640.250977, 1021.739990, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2173, 207.395004, 649.742004, 1012.257019, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(19916, 265.757996, 650.742981, 1010.828979, 0.000000, 0.000000, 0.000000);
+	CreateDynamicObject(2173, 207.395004, 646.461975, 1012.257019, 0.000000, 0.000000, 90.000000);
+
+	new cobj166 = CreateDynamicObject(948, 265.304993, 650.942993, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj166, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(2332, 257.011993, 629.565002, 1018.809021, 0.000000, 0.000000, 180.000000);
+
+	new cobj167 = CreateDynamicObject(948, 257.954987, 630.182007, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj167, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1722, 207.912994, 643.364014, 1016.460022, 0.000000, 0.000000, 449.998993);
+	CreateDynamicObject(1726, 266.109985, 645.622986, 1010.859009, 0.000000, 0.000000, 450.000000);
+
+	new cobj168 = CreateDynamicObject(2855, 260.423004, 632.950989, 1018.718994, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj168, 0, 15040, "cuntcuts", "GB_novels06");
+
+
+	new cobj169 = CreateDynamicObject(1533, 207.606003, 641.960999, 1012.257019, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj169, 256, 14581, "ab_mafiasuitea", "cof_wood2");
+
+	CreateDynamicObject(2611, 262.480011, 636.692017, 1019.908997, 0.000000, 0.000000, 270.000000);
+
+	new cobj170 = CreateDynamicObject(2205, 260.691010, 632.682983, 1017.859009, 0.000000, 0.000000, 360.000000);
+	SetDynamicObjectMaterial(cobj170, 0, 1355, "break_s_bins", "CJ_WOOD_DARK");
+
+	CreateDynamicObject(2165, 206.929993, 648.523010, 1016.453003, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(1727, 262.001007, 634.422974, 1017.859009, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(19805, 265.666992, 648.318970, 1019.799011, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(19871, 265.510986, 643.301025, 1017.963989, 0.000000, 0.000000, 89.098999);
+
+	new cobj171 = CreateDynamicObject(948, 259.035004, 630.172974, 1017.809021, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj171, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj172 = CreateDynamicObject(19883, 260.907013, 632.856018, 1018.796997, 0.000000, 0.000000, 115.198997);
+	SetDynamicObjectMaterial(cobj172, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj173 = CreateDynamicObject(19995, 260.910004, 632.851013, 1018.843018, -0.000000, 0.000000, 25.200001);
+	SetDynamicObjectMaterial(cobj173, 0, 18835, "mickytextures", "whiteforletters");
+
+
+	new cobj174 = CreateDynamicObject(1581, 260.903992, 632.827026, 1019.062988, 11.499000, -0.000000, -154.798996);
+	SetDynamicObjectMaterial(cobj174, 0, 18835, "mickytextures", "whiteforletters");
+
+	CreateDynamicObject(1722, 206.542999, 649.854980, 1016.460022, 0.000000, 0.000000, 179.998993);
+
+	new cobj175 = CreateDynamicObject(1581, 260.912994, 632.809021, 1019.067017, 11.499000, -0.000000, -154.798996);
+	SetDynamicObjectMaterial(cobj175, 0, 18996, "mattextures", "sampblack");
+
+	CreateDynamicObject(1727, 267.001007, 650.684021, 1010.838989, 0.000000, 0.000000, 360.000000);
+	CreateDynamicObject(2007, 264.209991, 636.692017, 1010.836975, 0.000000, 0.000000, 540.000000);
+	CreateDynamicObject(2164, 206.593002, 645.726013, 1016.448975, 0.000000, 0.000000, 180.000000);
+
+	new cobj176 = CreateDynamicObject(3017, 265.554993, 643.250000, 1019.572998, -7.899000, 89.999001, 179.098999);
+	SetDynamicObjectMaterial(cobj176, 0, 12853, "cunte_gas01", "starspangban1_256");
+
+	CreateDynamicObject(2256, 266.498993, 642.580017, 1012.848022, 0.000000, 0.000000, 180.000000);
+	CreateDynamicObject(19808, 261.217987, 632.502014, 1018.809021, 0.000000, 0.000000, 15.700000);
+
+	new cobj177 = CreateDynamicObject(1533, 207.606003, 638.958984, 1012.257019, 0.000000, 0.000000, 450.000000);
+	SetDynamicObjectMaterial(cobj177, 256, 14581, "ab_mafiasuitea", "cof_wood2");
+
+	CreateDynamicObject(11711, 209.460999, 636.241028, 1019.828979, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2828, 262.182007, 632.893982, 1018.789001, 0.000000, 0.000000, 123.999001);
+	CreateDynamicObject(19807, 262.059998, 632.637024, 1018.861023, 0.000000, 0.000000, -28.299999);
+	CreateDynamicObject(1714, 261.389008, 631.109985, 1017.838989, 0.000000, 0.000000, 180.000000);
+
+	new cobj178 = CreateDynamicObject(1533, 207.606003, 637.000000, 1012.257019, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj178, 256, 14581, "ab_mafiasuitea", "cof_wood2");
+
+	CreateDynamicObject(1714, 205.774002, 642.067993, 1016.437012, 0.000000, 0.000000, 810.000000);
+	CreateDynamicObject(19805, 204.516998, 648.708984, 1014.117981, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2007, 209.710007, 631.771973, 1012.226990, 0.000000, 0.000000, 900.000000);
+
+	new cobj179 = CreateDynamicObject(948, 204.815002, 644.192993, 1012.249023, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj179, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(2007, 209.750000, 631.771973, 1016.458008, 0.000000, 0.000000, 900.000000);
+	CreateDynamicObject(1800, 268.911011, 647.684021, 1006.606018, 0.000000, 0.000000, 0.000000);
+
+	new cobj180 = CreateDynamicObject(950, 269.489014, 650.695007, 1011.403992, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj180, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(2028, 269.312012, 645.309021, 1010.947021, 0.000000, 0.000000, 270.000000);
+	CreateDynamicObject(19325, 268.229004, 645.494019, 1020.794006, 0.000000, 0.000000, 90.000000);
+	CreateDynamicObject(2225, 269.770996, 646.442993, 1010.840027, 0.000000, 0.000000, 270.000000);
+
+	new cobj181 = CreateDynamicObject(19786, 269.817993, 646.606995, 1012.929016, 0.000000, 0.000000, 270.000000);
+	SetDynamicObjectMaterial(cobj181, 256, 18996, "mattextures", "sampblack");
+
+
+	new cobj182 = CreateDynamicObject(948, 204.815002, 640.200989, 1016.439026, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj182, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj183 = CreateDynamicObject(950, 269.489014, 643.064026, 1011.403992, 0.000000, 0.000000, 90.000000);
+	SetDynamicObjectMaterial(cobj183, 512, 4830, "airport2", "kbplanter_plants1");
+
+
+	new cobj184 = CreateDynamicObject(948, 269.404999, 641.913025, 1010.859009, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj184, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1537, 269.683258, 643.178223, 1006.655090, 0.000000, 0.000000, -89.499985);
+
+	new cobj185 = CreateDynamicObject(11714, 269.730988, 639.195007, 1012.098999, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj185, 0, 14577, "casinovault01", "dts_elevator_door");
+
+	CreateDynamicObject(11711, 269.730988, 639.190002, 1014.289978, 0.000000, 0.000000, 90.000000);
+
+	new cobj186 = CreateDynamicObject(19476, 204.516006, 636.414978, 1018.021973, 0.000000, 0.000000, 1080.000000);
+	SetDynamicObjectMaterial(cobj186, 1, 1360, "", "");
+
+
+	new cobj187 = CreateDynamicObject(948, 204.815002, 633.252991, 1012.249023, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj187, 512, 4830, "airport2", "kbplanter_plants1");
+
+	CreateDynamicObject(1537, 269.697723, 635.303528, 1010.728333, 0.000000, 0.000000, -90.500008);
+
+	new cobj188 = CreateDynamicObject(948, 204.815002, 631.552002, 1016.439026, 0.000000, 0.000000, 0.000000);
+	SetDynamicObjectMaterial(cobj188, 512, 4830, "airport2", "kbplanter_plants1");
